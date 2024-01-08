@@ -38,6 +38,6 @@ def funcao_hash(nomes):
     plt.title('Histograma de Colisões por Letra')
     plt.show()
 
-# Exemplo de uso:
+
 nomes = importar_alunos("alunosED_2023.txt")
 funcao_hash(nomes)
